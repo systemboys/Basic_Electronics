@@ -2,15 +2,15 @@
 
 ## Sumário
 
-- [Introdução à Eletrônica](#introducao-a-eletronica)
-- [Principais Áreas da Eletrônica](#principais-areas-da-eletronica)
-  - [Circuitos Analógicos](#circuitos-analogicos)
+- [Introdução à Eletrônica](#introdu%C3%A7%C3%A3o-%C3%A0-eletr%C3%B4nica)
+- [Principais Áreas da Eletrônica](#principais-%C3%A1reas-da-eletr%C3%B4nica)
+  - [Circuitos Analógicos](#circuitos-anal%C3%B3gicos)
   - [Circuitos Digitais](#circuitos-digitais)
-  - [Microeletrônica](#microeletronica)
-  - [Optoeletrônica](#optoeletronica)
-  - [Eletrônica de Potência](#eletronica-de-potencia)
-- [Componentes Eletrônicos Básicos](#componentes-eletronicos-basicos)
-- [Aplicações da Eletrônica](#aplicacoes-da-eletronica)
+  - [Microeletrônica](#microeletr%C3%B4nica)
+  - [Optoeletrônica](#optoeletr%C3%B4nica)
+  - [Eletrônica de Potência](#eletr%C3%B4nica-de-pot%C3%AAncia)
+- [Componentes Eletrônicos Básicos](#componentes-eletr%C3%B4nicos-b%C3%A1sicos)
+- [Aplicações da Eletrônica](#aplica%C3%A7%C3%B5es-da-eletr%C3%B4nica)
 
 ---
 
@@ -68,4 +68,3 @@ A eletrônica continua a evoluir rapidamente, impulsionando inovações tecnoló
 
 ---
 
-# Basic_Electronics
