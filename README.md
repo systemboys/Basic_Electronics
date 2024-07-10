@@ -11,6 +11,7 @@
   - [Eletrônica de Potência](#eletr%C3%B4nica-de-pot%C3%AAncia)
 - [Componentes Eletrônicos Básicos](#componentes-eletr%C3%B4nicos-b%C3%A1sicos)
 - [Aplicações da Eletrônica](#aplica%C3%A7%C3%B5es-da-eletr%C3%B4nica)
+- [Ferramentas de Testes de Eletrônica](./Tools/README.md#ferramentas-de-testes-de-eletr%C3%B4nica "Ferramentas de Testes de Eletrônica")
 
 ---
 
