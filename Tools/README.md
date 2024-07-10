@@ -1,6 +1,8 @@
 # Ferramentas de Testes de Eletrônica
 
-![Multímetro Minipa ET-1639A](./images/image.png)
+> ### Multímetro Minipa ET-1639A
+
+![Multímetro Minipa ET-1639A](./images/image.png "Multímetro Minipa ET-1639A")
 
 Para medir um capacitor com o seu multímetro Minipa ET-1639A, siga os passos abaixo:
 
@@ -31,8 +33,9 @@ Aqui estão os passos ilustrados com base na configuração do seu multímetro:
 Se precisar de mais alguma informação ou ajuda, estou à disposição!
 
 ---
+> ### Multímetro Brasfort Ref. 8522
 
-![Multímetro Brasfort Ref. 8522](./images/image-1.png)
+![Multímetro Brasfort Ref. 8522](./images/image-1.png "Multímetro Brasfort Ref. 8522")
 
 O seu multímetro Brasfort Ref. 8522 possui várias escalas e funções. Vou explicar cada uma delas e como utilizá-las para medir diferentes componentes.
 
