@@ -4,6 +4,8 @@
 
 ![Multímetro Minipa ET-1639A](./images/image.png "Multímetro Minipa ET-1639A")
 
+[![Multímetro Minipa ET-1639A](../images/control/11269_control_left_icon.png "Voltar")](../README.md#eletr%C3%B4nica-b%C3%A1sica)
+
 Para medir um capacitor com o seu multímetro Minipa ET-1639A, siga os passos abaixo:
 
 1. **Descarregue o Capacitor**: Antes de medir, certifique-se de que o capacitor esteja descarregado para evitar danos ao multímetro ou a você mesmo. Para descarregar um capacitor, você pode usar uma resistência de alto valor (cerca de 10kΩ) e conectá-la entre os terminais do capacitor por alguns segundos.

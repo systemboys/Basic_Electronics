@@ -67,5 +67,7 @@ A eletrônica é fundamental em diversas áreas, como:
 
 A eletrônica continua a evoluir rapidamente, impulsionando inovações tecnológicas e contribuindo significativamente para o avanço da sociedade moderna.
 
+[![Multímetro Minipa ET-1639A](./images/control/11280_control_up_icon.png "Subir")](./README.md#sum%C3%A1rio)
+
 ---
 
